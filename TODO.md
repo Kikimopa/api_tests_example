@@ -1,8 +1,9 @@
-1. Add wrapper to return response json
-2. add base model for test data
-3. add logging
-4. Write some tests
-5. add allure into tests
-6. add conftest config for framework
-7. add some basic assertion
-8. add ci\cd for tests
+1. Add wrapper to return response json ✔️
+2. add linters
+3. add base model for test data
+4. add logging ✔️
+5. Write some tests
+6. add allure into tests
+7. add conftest config for framework
+8. add some basic assertion
+9. add ci\cd for tests
